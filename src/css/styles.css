@@ -1,8 +1,16 @@
 
 body {
-  background-color: lightblue;
+  background-color: #a8dadc;
 }
 
 .center, .button, .data {
   text-align: center;
+}
+
+h3, .button {
+  padding: 20px;
+}
+
+#issmap {
+  height: 180px;
 }
